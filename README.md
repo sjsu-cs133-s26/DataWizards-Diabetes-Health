@@ -19,6 +19,9 @@ visualization.
 ## Dataset
 
 **Dataset Name:** Comprehensive Diabetes Clinical Dataset
+
 **Domain:** Health
+
 **Source (Kaggle):** [https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset](https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset) 
+
 **Usage:** Public + free to use (per Kaggle dataset access)
