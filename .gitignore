@@ -1,0 +1,8 @@
+# ignore python virtual environments
+venv/
+
+# frickin macos users
+.DS_Store
+
+# we prob shouldnt commit the whole dataset file
+diabetes_dataset.csv
